@@ -1,0 +1,117 @@
+{"QA_number": "001", "Answer": "Protesters ignored police warnings.", "Evidence": [1, 2, 3, 4, 5, 6, 7]}
+{"QA_number": "002", "Answer": "Protesters remained calm despite police presence.", "Evidence": [4, 5, 6, 7]}
+{"QA_number": "003", "Answer": "Presence of masked individuals.", "Evidence": [7]}
+{"QA_number": "004", "Answer": "Queued, temperature checked, received ballot, voted.", "Evidence": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]}
+{"QA_number": "005", "Answer": "Voted at polling station.", "Evidence": [4, 5, 6, 7, 8, 9, 10, 11, 12]}
+{"QA_number": "006", "Answer": "Ensure safety and accessibility during voting.", "Evidence": [2, 4, 8, 10, 12]}
+{"QA_number": "007", "Answer": "Mayweather walked away.", "Evidence": [8]}
+{"QA_number": "008", "Answer": "To avoid further confrontation.", "Evidence": [6, 7, 8]}
+{"QA_number": "009", "Answer": "Mayweather walks away from the confrontation.", "Evidence": [7, 8, 15]}
+{"QA_number": "010", "Answer": "The first man speaks after the second man enters.", "Evidence": [4]}
+{"QA_number": "011", "Answer": "The meeting ends with a handshake.", "Evidence": [6]}
+{"QA_number": "012", "Answer": "Menendez and Blinken meet and discuss.", "Evidence": [1, 2, 3, 4, 5, 6]}
+{"QA_number": "013", "Answer": "The ceremony begins with a band playing.", "Evidence": [3, 4]}
+{"QA_number": "014", "Answer": "To signal the start of the ceremony.", "Evidence": [3, 4, 5, 6]}
+{"QA_number": "015", "Answer": "The president greets attendees before the ceremony begins.", "Evidence": [1, 2]}
+{"QA_number": "016", "Answer": "Gathered outside the hotel.", "Evidence": [2, 3, 4]}
+{"QA_number": "017", "Answer": "The team's arrival at the stadium.", "Evidence": [2, 3, 4, 5, 6, 7, 8, 9, 10]}
+{"QA_number": "018", "Answer": "The bus drives away.", "Evidence": [8, 9, 10]}
+{"QA_number": "019", "Answer": "Boarded bus, checked luggage, passed security.", "Evidence": [10, 11, 12, 13, 14, 15]}
+{"QA_number": "020", "Answer": "Coordinated by security personnel.", "Evidence": [10, 11, 12, 13, 14, 15]}
+{"QA_number": "021", "Answer": "Diplomats entered the airport terminal.", "Evidence": [12, 13, 14, 15]}
+{"QA_number": "022", "Answer": "The doctor applied a bandage after the injection.", "Evidence": [6, 7, 8, 9, 10]}
+{"QA_number": "023", "Answer": "Patient receives injection and applies bandage.", "Evidence": [4, 5, 6, 7, 8, 9, 10]}
+{"QA_number": "024", "Answer": "Raises his arm to show the injection site.", "Evidence": [5, 8]}
+{"QA_number": "025", "Answer": "Dogs ran away, bear chased them, girl protected them.", "Evidence": [2, 3, 4, 5]}
+{"QA_number": "026", "Answer": "She picked up a smaller dog.", "Evidence": [5]}
+{"QA_number": "027", "Answer": "To protect her dogs.", "Evidence": [4, 5]}
+{"QA_number": "028", "Answer": "To set out government priorities.", "Evidence": [3, 4]}
+{"QA_number": "029", "Answer": "They walked down the aisle together.", "Evidence": [6, 7]}
+{"QA_number": "030", "Answer": "The Queen opened Parliament and set out priorities.", "Evidence": [3, 4, 5, 6, 7]}
+{"QA_number": "031", "Answer": "Demonstrates genuine interest in farming.", "Evidence": [1, 2, 3, 5, 6]}
+{"QA_number": "032", "Answer": "To showcase their passion for farming.", "Evidence": [1, 2, 3, 5, 6]}
+{"QA_number": "033", "Answer": "They switched seats while driving.", "Evidence": [1, 2, 3]}
+{"QA_number": "034", "Answer": "President Biden boards a helicopter.", "Evidence": [6, 7, 8]}
+{"QA_number": "035", "Answer": "President Biden boards the helicopter.", "Evidence": [6, 7]}
+{"QA_number": "036", "Answer": "They walk towards and board a helicopter together.", "Evidence": [5, 6, 7, 8]}
+{"QA_number": "037", "Answer": "Chops vegetables and mixes them.", "Evidence": [4, 5, 6, 7, 8]}
+{"QA_number": "038", "Answer": "The chef tastes the salsa.", "Evidence": [8]}
+{"QA_number": "039", "Answer": "To check flavor balance.", "Evidence": [7]}
+{"QA_number": "040", "Answer": "To prevent sticking and enhance flavor.", "Evidence": [6]}
+{"QA_number": "041", "Answer": "Facilitated even cooking and texture.", "Evidence": [6, 7, 8]}
+{"QA_number": "042", "Answer": "To add variety and texture.", "Evidence": [3, 6, 7]}
+{"QA_number": "043", "Answer": "Tee shot → Ball lands near crowd → Crowd raises ball.", "Evidence": [1, 5, 9]}
+{"QA_number": "044", "Answer": "Celebrated with high-fives and confetti.", "Evidence": [8, 9, 10]}
+{"QA_number": "045", "Answer": "Celebrated with confetti and high-fives.", "Evidence": [9, 10]}
+{"QA_number": "046", "Answer": "The dog is greeted by its owner.", "Evidence": [6, 7, 8]}
+{"QA_number": "047", "Answer": "The dog's excitement is due to meeting its owner.", "Evidence": [6, 7, 8]}
+{"QA_number": "048", "Answer": "The girl hugs the dog.", "Evidence": [6, 7, 8]}
+{"QA_number": "049", "Answer": "Their entrance was energetic and lively.", "Evidence": [3, 4, 5, 6]}
+{"QA_number": "050", "Answer": "Celebratory dance and applause.", "Evidence": [4, 5, 6, 7, 8, 9, 10]}
+{"QA_number": "051", "Answer": "Enhanced visual spectacle and audience engagement.", "Evidence": [3, 4, 5, 6]}
+{"QA_number": "052", "Answer": "To share the candy bar.", "Evidence": [6, 7, 8, 9, 10]}
+{"QA_number": "053", "Answer": "Difficulty in opening the wrapper.", "Evidence": [3, 4, 5]}
+{"QA_number": "054", "Answer": "Unwrap the candy bar and cut it into pieces.", "Evidence": [3, 7, 8, 9, 10]}
+{"QA_number": "055", "Answer": "DiCaprio receives award, then delivers speech.", "Evidence": [7, 8, 9, 10, 11, 12, 13]}
+{"QA_number": "056", "Answer": "To honor his mother's support.", "Evidence": [11, 12, 13]}
+{"QA_number": "057", "Answer": "To acknowledge his achievement.", "Evidence": [11, 12, 13]}
+{"QA_number": "058", "Answer": "The dog chased after a ball into the water.", "Evidence": [1, 2, 3, 4, 5, 6]}
+{"QA_number": "059", "Answer": "The rescuer was initially successful but later needed help.", "Evidence": [1, 2, 3, 4, 5, 6]}
+{"QA_number": "060", "Answer": "The swimmer used his strength and technique.", "Evidence": [4, 5, 6]}
+{"QA_number": "061", "Answer": "Red carpet and official welcome.", "Evidence": [6, 7, 8]}
+{"QA_number": "062", "Answer": "Departure by car after meeting.", "Evidence": [8, 9, 10]}
+{"QA_number": "063", "Answer": "To inspect the building's interior.", "Evidence": [5, 6, 7]}
+{"QA_number": "064", "Answer": "The boy uses a counter-grab technique.", "Evidence": [10, 11, 12, 13, 14]}
+{"QA_number": "065", "Answer": "The boy gains an advantage by taking down the girl.", "Evidence": [10, 11, 12, 13, 14]}
+{"QA_number": "066", "Answer": "The decisive action was the throw at 00:35.", "Evidence": [8]}
+{"QA_number": "067", "Answer": "Ribbon cutting ceremony outside.", "Evidence": [4, 5]}
+{"QA_number": "068", "Answer": "People gathered and waited for the ceremony.", "Evidence": [2, 3, 4]}
+{"QA_number": "069", "Answer": "Ribbon Cutting Ceremony", "Evidence": [4, 5]}
+{"QA_number": "070", "Answer": "They interacted with students.", "Evidence": [4, 5, 6, 7]}
+{"QA_number": "071", "Answer": "Walk into the classroom, observe students, interact with children, and leave.", "Evidence": [2, 3, 4, 5, 6, 7]}
+{"QA_number": "072", "Answer": "Engages with students, observes, and interacts.", "Evidence": [4, 5, 6, 7]}
+{"QA_number": "073", "Answer": "Opens radiator cap and adds coolant.", "Evidence": [5, 7, 8]}
+{"QA_number": "074", "Answer": "Open radiator cap and add coolant.", "Evidence": [5, 6, 7, 8]}
+{"QA_number": "075", "Answer": "Opens the radiator cap.", "Evidence": [6]}
+{"QA_number": "076", "Answer": "Pitcher secured the out by throwing a strike.", "Evidence": [10, 11, 12, 13]}
+{"QA_number": "077", "Answer": "Celebrations intensified with hugs and high-fives.", "Evidence": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]}
+{"QA_number": "078", "Answer": "Celebrating Joe Musgrove's no-hitter.", "Evidence": [10, 11, 12, 13]}
+{"QA_number": "079", "Answer": "Practice proper bowing technique.", "Evidence": [5, 6, 7, 8, 9, 10, 11]}
+{"QA_number": "080", "Answer": "To prepare the wrist for smooth movement.", "Evidence": [7, 8, 9, 10, 11]}
+{"QA_number": "081", "Answer": "From basic bowing to advanced vibrato.", "Evidence": [5, 6, 7, 8, 9, 10, 11]}
+{"QA_number": "082", "Answer": "The cat eats the food.", "Evidence": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]}
+{"QA_number": "083", "Answer": "Applies paste to food before feeding.", "Evidence": [4, 5, 6, 7, 8, 9, 10, 11, 12]}
+{"QA_number": "084", "Answer": "To encourage the cat to eat the paste.", "Evidence": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]}
+{"QA_number": "085", "Answer": "To prepare skin for shaving.", "Evidence": [14, 15, 16, 17, 18, 19, 20]}
+{"QA_number": "086", "Answer": "To keep the razor clean and effective.", "Evidence": [16, 18]}
+{"QA_number": "087", "Answer": "To close pores and reduce redness.", "Evidence": [19]}
+{"QA_number": "088", "Answer": "Increased police presence led to detainment.", "Evidence": [7, 8]}
+{"QA_number": "089", "Answer": "The suspect was subdued by officers.", "Evidence": [7, 8]}
+{"QA_number": "090", "Answer": "To subdue the individual.", "Evidence": [7, 8]}
+{"QA_number": "091", "Answer": "She used a knife sharpener.", "Evidence": [3, 4]}
+{"QA_number": "092", "Answer": "To test the knife's sharpness.", "Evidence": [5, 8]}
+{"QA_number": "093", "Answer": "The sharpener improves knife performance.", "Evidence": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]}
+{"QA_number": "094", "Answer": "To check on the fallen player's condition.", "Evidence": [1, 2, 3, 4, 5, 6, 7]}
+{"QA_number": "095", "Answer": "The teammates' encouragement allowed the man to propose.", "Evidence": [8, 9, 10]}
+{"QA_number": "096", "Answer": "The man proposed to the player.", "Evidence": [8, 9, 10]}
+{"QA_number": "097", "Answer": "The adjudicator declared the new world record holder after reviewing the performance.", "Evidence": [18, 20]}
+{"QA_number": "098", "Answer": "Ramsay looks disappointed and walks away.", "Evidence": [17, 18, 19, 20]}
+{"QA_number": "099", "Answer": "The adjudicator observes and declares the winner.", "Evidence": [12, 13, 14, 15, 16, 17, 18, 19, 20]}
+{"QA_number": "100", "Answer": "To facilitate Kim Jong-un's arrival.", "Evidence": [4, 5, 6]}
+{"QA_number": "101", "Answer": "The train door was opened.", "Evidence": [5, 6]}
+{"QA_number": "102", "Answer": "The leader salutes before exiting.", "Evidence": [10]}
+{"QA_number": "103", "Answer": "The car entry indicated resolution after a tense situation.", "Evidence": [4, 5, 6]}
+{"QA_number": "104", "Answer": "The sheriff used a tool to open the door.", "Evidence": [4]}
+{"QA_number": "105", "Answer": "The inmate was successfully transported.", "Evidence": [5, 6]}
+{"QA_number": "106", "Answer": "Leaders posed for a photo.", "Evidence": [5, 6, 7, 8]}
+{"QA_number": "107", "Answer": "To conclude the photo session.", "Evidence": [5, 6, 7]}
+{"QA_number": "108", "Answer": "Leaders shook hands and posed for photos.", "Evidence": [4, 5, 6]}
+{"QA_number": "109", "Answer": "Villagers used ropes and teamwork.", "Evidence": [6, 7, 8, 9, 10]}
+{"QA_number": "110", "Answer": "Rope was used to pull the bull out.", "Evidence": [6, 7, 8, 9, 10]}
+{"QA_number": "111", "Answer": "The bull was lifted out of the well using a rope.", "Evidence": [6, 7, 8, 9, 10]}
+{"QA_number": "112", "Answer": "Flags were lowered and presented to an officer.", "Evidence": [3, 6, 7, 8, 9]}
+{"QA_number": "113", "Answer": "Saluting and flag folding ceremony.", "Evidence": [6, 7, 8, 9]}
+{"QA_number": "114", "Answer": "Flags were lowered to half-mast.", "Evidence": [3, 4]}
+{"QA_number": "115", "Answer": "Akebono dominated throughout.", "Evidence": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}
+{"QA_number": "116", "Answer": "The wrestlers began their match.", "Evidence": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}
+{"QA_number": "117", "Answer": "Big Show was pushed to the ground by the referee.", "Evidence": [14, 15]}

@@ -1,0 +1,34 @@
+You are an impartial judge.
+Your task is to evaluate how well a model’s predicted answer addresses the given question, by comparing it with the ground truth answer.
+
+### Input
+
+* **Question**: $QUESTION$
+* **Ground Truth Answer**: $GROUND_TRUTH$
+* **Predicted Answer**: $PREDICTION$
+
+### Evaluation Criteria
+
+Assess the predicted answer based on the following dimensions:
+
+1. **Correctness**: Does it correctly answer the question?
+2. **Completeness**: Does it cover all essential aspects of the ground truth answer?
+3. **Faithfulness**: Does it avoid hallucinations, errors, or irrelevant content?
+
+### Scoring Scale (1–8)
+
+* **1**: Completely wrong, unrelated to the question.
+* **2**: Mostly wrong, only a tiny relevant part.
+* **3**: Wrong, but shows minimal understanding of the question.
+* **4**: Partially correct, but major elements are missing or incorrect.
+* **5**: Somewhat correct, but lacks important details or contains minor errors.
+* **6**: Largely correct, with small inaccuracies or omissions.
+* **7**: Almost entirely correct, only very minor issues.
+* **8**: Perfectly correct and complete.
+
+### Output Format
+
+Provide your evaluation in the following format:
+
+* **Score**: [1–8]
+* **Explanation**: 1–3 sentences explaining why you assigned this score.
